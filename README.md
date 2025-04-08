@@ -33,9 +33,26 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YURIKMOREIRA&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YURIKMOREIRA&layout=compact&langs_count=7&theme=radical"/>
+  <!-- Estatísticas principais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurimoreira08&show_icons=true&theme=gradient&border_radius=10&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimoreira08&layout=compact&theme=gradient&border_radius=10&hide_border=false" />
+</div>
+
+---
+
+## 🏆 Conquistas no GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yurimoreira08&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
+---
+
+## 🔥 Streak - Dias seguidos programando
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=yurimoreira08&theme=tokyonight&hide_border=true&border_radius=8&date_format=j M[Y]" />
 </div>
