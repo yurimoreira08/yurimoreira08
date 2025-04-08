@@ -48,11 +48,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yurimoreira08&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </div>
-
----
-
-## 🔥 Streak - Dias seguidos programando
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yurimoreira08&theme=tokyonight&hide_border=true&border_radius=8&date_format=j M[Y]" />
-</div>
