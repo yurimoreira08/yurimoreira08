@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Yuri Moreira!</h1>
+<p align="center">🖱️ Técnico em Informática | IFPI</p>
 <p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | IFPI</p>
-<p align="center">🚀 Entusiasta em Desenvolvimento Web e por tecnologia</p>
 
 ---
 
