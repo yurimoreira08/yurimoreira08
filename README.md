@@ -8,7 +8,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pelo **IFPI**
 - 🔍 Interesse em **desenvolvimento web**, **programação** e **projetos práticos**
-- 🧠 Curioso e autodidata, sempre buscando evoluir como **profissional de TI**
+- 🧠 Sempre buscando evoluir como **profissional de TI**
 - 💡 Motivado por desafios, aprendizado constante e inovação
 
 ---
