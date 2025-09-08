@@ -1,19 +1,17 @@
 <h1 align="center">👋 Olá, eu sou o Yuri Moreira!</h1>
-<p align="center">🖱️ Técnico em Informática | IFPI</p>
-<p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | IFPI</p>
+<p align="center">💻 ADS | Técnico em Informática | IFPI</p>
 
 ---
 
 ## 🙋‍♂️ Sobre mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pelo **IFPI**
-- 🔍 Interesse em **desenvolvimento web**, **programação** e **projetos práticos**
-- 🧠 Sempre buscando evoluir como **profissional de TI**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPI**
+- 🔍 Interessado em **desenvolvimento web**, **programação** e **projetos práticos**
+- 🧠 Sempre buscando evolução como **profissional de TI**
 - 💡 Motivado por desafios, aprendizado constante e inovação
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🛠️ Tecnologias que domino
 
 <div align="center">
   <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -38,8 +36,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurimoreira08&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimoreira08&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yurimoreira08&show_icons=true&theme=onedark&border_radius=10&hide_border=false" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimoreira08&layout=compact&theme=onedark&border_radius=10&hide_border=false" />
 </div>
 
 ---
@@ -47,5 +45,5 @@
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yurimoreira08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yurimoreira08&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
 </div>
